@@ -13,39 +13,6 @@ ok = Notebook('proj1b.ok')
 # 
 # ## Due Date: Monday, Feb 24th, 11:59PM
 # 
-# ## Collaboration Policy
-# 
-# Data science is a collaborative activity. While you may talk with others about
-# the homework, we ask that you **write your solutions individually**. If you do
-# discuss the assignments with others please **include their names** below.
-# 
-# 
-
-# **Collaborators**: Jack Gutheim, Ava Kahn
-
-# ## Scoring Breakdown
-# 
-# |Question|Points|
-# |---|---|
-# |1a|1|
-# |1b|2|
-# |1ci|3|
-# |1cii|1|
-# |2a|2|
-# |2b|1|
-# |2ci|4|
-# |2cii|2|
-# |2d|2|
-# |2e|1|
-# |2f|1|
-# |2g|3|
-# |3a|3|
-# |3b|4|
-# |3c|1|
-# |3d|2|
-# |4 |5|
-# |**Total**|38|
-# 
 
 # First we import the relevant libraries for this project.
 
